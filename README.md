@@ -1,8 +1,3 @@
-<h1>Amazon clone is a front-end web page with a perfect CSS</h1>
-<h3>Below is the html used in amazon clone</h3>
-<hr>
-
-
 <!DOCTYPE html>
 
 <head>
